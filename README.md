@@ -230,8 +230,8 @@ My current areas of interest include:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavekannan1&show_icons=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavekannan1&layout=compact&theme=transparent" height="170"/>
 </p>
 
 ---
@@ -239,7 +239,7 @@ My current areas of interest include:
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent"/>
+  <img src="https://streak-stats.demolab.com?user=pranavekannan1&theme=transparent"/>
 </p>
 
 ---
@@ -248,11 +248,11 @@ My current areas of interest include:
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/pranavekannan1">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pranave-kannan-872183287/)">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
