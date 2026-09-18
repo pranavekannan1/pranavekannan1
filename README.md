@@ -230,10 +230,14 @@ My current areas of interest include:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavekannan1&show_icons=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavekannan1&layout=compact&theme=transparent" height="170"/>
-</p>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pranavekannan1&show_icons=true&theme=transparent"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavekannan1&layout=compact&theme=transparent"
+    height="170"
+  /
 ---
 
 # 🔥 Contribution Streak
